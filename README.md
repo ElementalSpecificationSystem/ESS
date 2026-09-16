@@ -125,7 +125,7 @@ ESS v1.0 is currently in **public review**. The Stewardship Council will conside
 
 ## Founding Steward
 
-**Eric Letbetter, AIA, CCS, SCIP**  
+**Eric D. Letbetter, AIA, CCS, SCIP**  
 Letbetter Ink — Alpharetta, Georgia  
 [letbetterink.com](https://letbetterink.com)
 
