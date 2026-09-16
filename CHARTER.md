@@ -169,7 +169,7 @@ ESS is that option. It competes on merit, not grievance. If MasterFormat becomes
 
 ## Founding Steward Signature
 
-**Eric Letbetter, AIA, CCS, SCIP**  
+**Eric D. Letbetter, AIA, CCS, SCIP**  
 Founding Steward, Elemental Specification System  
 Letbetter Ink — Alpharetta, Georgia  
 June 2026
