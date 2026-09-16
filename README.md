@@ -1,3 +1,4 @@
+![ESS](ESS_icon.png)
 # Elemental Specification System (ESS)
 
 **An open, copyright-free construction work-results taxonomy for North American practice.**
