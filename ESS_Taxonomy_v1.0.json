@@ -1,0 +1,6528 @@
+{
+  "version": "1.0",
+  "name": "Elemental Specification System",
+  "license": "ODbL 1.0",
+  "sections": [
+    {
+      "ess_number": "00 00 00",
+      "level": "division",
+      "title": "Procurement and Contracting Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 10 00",
+      "level": "section",
+      "title": "Solicitation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 11 00",
+      "level": "section",
+      "title": "Advertisements and Invitations",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 11 13",
+      "level": "section",
+      "title": "Advertisement for Bids",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 11 16",
+      "level": "section",
+      "title": "Invitation to Bid",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 21 00",
+      "level": "section",
+      "title": "Instructions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 21 13",
+      "level": "section",
+      "title": "Instructions to Bidders",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 22 00",
+      "level": "section",
+      "title": "Supplementary Instructions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 22 13",
+      "level": "section",
+      "title": "Supplementary Instructions to Bidders",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 31 00",
+      "level": "section",
+      "title": "Available Project Information",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 31 13",
+      "level": "section",
+      "title": "Preliminary Schedules",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 31 19",
+      "level": "section",
+      "title": "Existing Condition Information",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 31 24",
+      "level": "section",
+      "title": "Existing Hazardous Material Information",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 31 26",
+      "level": "section",
+      "title": "Existing Tests and Inspections Information",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 31 32",
+      "level": "section",
+      "title": "Geotechnical Data",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 41 00",
+      "level": "section",
+      "title": "Bid Forms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 41 13",
+      "level": "section",
+      "title": "Bid Form \u2014 Stipulated Sum",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 41 16",
+      "level": "section",
+      "title": "Bid Form \u2014 Unit Price",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 41 43",
+      "level": "section",
+      "title": "Bid Form \u2014 Cost Plus",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 43 00",
+      "level": "section",
+      "title": "Bid Form Supplements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 43 13",
+      "level": "section",
+      "title": "Bid Bond",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 43 25",
+      "level": "section",
+      "title": "Substitution Request Form",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 45 00",
+      "level": "section",
+      "title": "Representations and Certifications",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 45 13",
+      "level": "section",
+      "title": "Bidder's Qualifications",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 45 26",
+      "level": "section",
+      "title": "Workers Compensation Certificate",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 52 00",
+      "level": "section",
+      "title": "Agreement Forms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 52 13",
+      "level": "section",
+      "title": "Agreement Form \u2014 Stipulated Sum",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 52 16",
+      "level": "section",
+      "title": "Agreement Form \u2014 Unit Price",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 52 43",
+      "level": "section",
+      "title": "Agreement Form \u2014 Cost Plus",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 54 00",
+      "level": "section",
+      "title": "Agreement Form Supplements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 61 00",
+      "level": "section",
+      "title": "Bond and Certificate Forms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 61 13",
+      "level": "section",
+      "title": "Performance Bond",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 61 16",
+      "level": "section",
+      "title": "Payment Bond",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 61 19",
+      "level": "section",
+      "title": "Maintenance Bond",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 62 00",
+      "level": "section",
+      "title": "Certificates and Other Forms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 62 13",
+      "level": "section",
+      "title": "Certificate of Insurance",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 62 34",
+      "level": "section",
+      "title": "Subcontractor List",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 65 00",
+      "level": "section",
+      "title": "Closeout Forms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 65 13",
+      "level": "section",
+      "title": "Certificate of Substantial Completion",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 72 00",
+      "level": "section",
+      "title": "General Conditions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 72 13",
+      "level": "section",
+      "title": "General Conditions of the Contract",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 73 00",
+      "level": "section",
+      "title": "Supplementary Conditions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "00 73 13",
+      "level": "section",
+      "title": "Supplementary Conditions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 00 00",
+      "level": "division",
+      "title": "General Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 10 00",
+      "level": "section",
+      "title": "Summary",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 11 00",
+      "level": "section",
+      "title": "Summary of Work",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 12 00",
+      "level": "section",
+      "title": "Multiple Contract Summary",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 14 00",
+      "level": "section",
+      "title": "Work Restrictions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 18 00",
+      "level": "section",
+      "title": "Project Utility Sources",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 20 00",
+      "level": "section",
+      "title": "Price and Payment Procedures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 21 00",
+      "level": "section",
+      "title": "Allowances",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 22 00",
+      "level": "section",
+      "title": "Unit Prices",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 23 00",
+      "level": "section",
+      "title": "Alternates",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 24 00",
+      "level": "section",
+      "title": "Value Analysis",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 25 00",
+      "level": "section",
+      "title": "Substitution Procedures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 26 00",
+      "level": "section",
+      "title": "Contract Modification Procedures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 29 00",
+      "level": "section",
+      "title": "Payment Procedures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 30 00",
+      "level": "section",
+      "title": "Administrative Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 31 00",
+      "level": "section",
+      "title": "Project Management and Coordination",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 32 00",
+      "level": "section",
+      "title": "Construction Progress Documentation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 33 00",
+      "level": "section",
+      "title": "Submittal Procedures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 35 00",
+      "level": "section",
+      "title": "Special Procedures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 35 13",
+      "level": "section",
+      "title": "Special Project Procedures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 35 43",
+      "level": "section",
+      "title": "Environmental Procedures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 40 00",
+      "level": "section",
+      "title": "Quality Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 41 00",
+      "level": "section",
+      "title": "Regulatory Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 42 00",
+      "level": "section",
+      "title": "References",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 43 00",
+      "level": "section",
+      "title": "Quality Assurance",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 45 00",
+      "level": "section",
+      "title": "Quality Control",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 45 16",
+      "level": "section",
+      "title": "Contractor Quality Control",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 45 23",
+      "level": "section",
+      "title": "Testing and Inspecting Services",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 50 00",
+      "level": "section",
+      "title": "Temporary Facilities and Controls",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 51 00",
+      "level": "section",
+      "title": "Temporary Utilities",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 52 00",
+      "level": "section",
+      "title": "Construction Facilities",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 54 00",
+      "level": "section",
+      "title": "Construction Aids",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 55 00",
+      "level": "section",
+      "title": "Vehicular Access and Parking",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 56 00",
+      "level": "section",
+      "title": "Temporary Barriers and Enclosures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 57 00",
+      "level": "section",
+      "title": "Temporary Controls",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 57 13",
+      "level": "section",
+      "title": "Temporary Erosion and Sediment Control",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 58 00",
+      "level": "section",
+      "title": "Project Identification",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 60 00",
+      "level": "section",
+      "title": "Product Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 61 00",
+      "level": "section",
+      "title": "Common Product Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 62 00",
+      "level": "section",
+      "title": "Product Options",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 64 00",
+      "level": "section",
+      "title": "Owner-Furnished Products",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 65 00",
+      "level": "section",
+      "title": "Product Delivery Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 66 00",
+      "level": "section",
+      "title": "Product Storage and Handling Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 70 00",
+      "level": "section",
+      "title": "Execution and Closeout Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 71 00",
+      "level": "section",
+      "title": "Examination and Preparation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 73 00",
+      "level": "section",
+      "title": "Execution",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 74 00",
+      "level": "section",
+      "title": "Cleaning and Waste Management",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 74 13",
+      "level": "section",
+      "title": "Progress Cleaning",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 74 19",
+      "level": "section",
+      "title": "Construction Waste Management and Disposal",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 75 00",
+      "level": "section",
+      "title": "Starting and Adjusting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 76 00",
+      "level": "section",
+      "title": "Protecting Installed Construction",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 77 00",
+      "level": "section",
+      "title": "Closeout Procedures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 78 00",
+      "level": "section",
+      "title": "Closeout Submittals",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 78 23",
+      "level": "section",
+      "title": "Operation and Maintenance Data",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 78 39",
+      "level": "section",
+      "title": "Project Record Documents",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 79 00",
+      "level": "section",
+      "title": "Demonstration and Training",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 80 00",
+      "level": "section",
+      "title": "Performance Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 81 00",
+      "level": "section",
+      "title": "Facility Performance Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 82 00",
+      "level": "section",
+      "title": "Facility Substructure Performance Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 83 00",
+      "level": "section",
+      "title": "Facility Shell Performance Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 84 00",
+      "level": "section",
+      "title": "Interiors Performance Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 86 00",
+      "level": "section",
+      "title": "Facility Services Performance Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 91 00",
+      "level": "section",
+      "title": "Commissioning",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "01 91 13",
+      "level": "section",
+      "title": "General Commissioning Requirements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 00 00",
+      "level": "division",
+      "title": "Existing Conditions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 01 00",
+      "level": "section",
+      "title": "Assessment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 01 13",
+      "level": "section",
+      "title": "Selective Site Demolition Assessment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 01 19",
+      "level": "section",
+      "title": "Building Condition Assessment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 05 00",
+      "level": "section",
+      "title": "Common Work Results for Existing Conditions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 06 00",
+      "level": "section",
+      "title": "Schedules for Existing Conditions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 07 00",
+      "level": "section",
+      "title": "Commissioning for Existing Conditions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 10 00",
+      "level": "section",
+      "title": "Subsurface Investigation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 10 13",
+      "level": "section",
+      "title": "Subsurface Drilling and Sampling",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 10 16",
+      "level": "section",
+      "title": "Percolation Testing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 11 00",
+      "level": "section",
+      "title": "Existing Material Assessment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 11 13",
+      "level": "section",
+      "title": "Concrete Assessment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 11 16",
+      "level": "section",
+      "title": "Masonry Assessment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 11 19",
+      "level": "section",
+      "title": "Metal Assessment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 11 23",
+      "level": "section",
+      "title": "Wood Assessment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 21 00",
+      "level": "section",
+      "title": "Removal and Salvage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 21 13",
+      "level": "section",
+      "title": "Selective Demolition",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 21 16",
+      "level": "section",
+      "title": "Structure Moving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 22 00",
+      "level": "section",
+      "title": "Hazardous Material Remediation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 22 13",
+      "level": "section",
+      "title": "Asbestos Abatement",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 22 16",
+      "level": "section",
+      "title": "Lead Remediation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 22 19",
+      "level": "section",
+      "title": "Polychlorinated Biphenyl (PCB) Remediation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 22 23",
+      "level": "section",
+      "title": "Mold Remediation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 41 00",
+      "level": "section",
+      "title": "Building Deconstruction",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "10 41 13",
+      "level": "section",
+      "title": "Building Deconstruction and Material Salvage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 00 00",
+      "level": "division",
+      "title": "Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 03 00",
+      "level": "section",
+      "title": "Concrete Rehabilitation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 05 00",
+      "level": "section",
+      "title": "Common Work Results for Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 05 13",
+      "level": "section",
+      "title": "Selective Concrete Demolition",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 11 00",
+      "level": "section",
+      "title": "Concrete Forming and Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 11 13",
+      "level": "section",
+      "title": "Structural Cast-in-Place Concrete Forming",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 11 16",
+      "level": "section",
+      "title": "Architectural Cast-in-Place Concrete Forming",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 11 19",
+      "level": "section",
+      "title": "Insulating Concrete Forming",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 11 23",
+      "level": "section",
+      "title": "Permanent Stair Forming",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 13 00",
+      "level": "section",
+      "title": "Concrete Reinforcing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 13 13",
+      "level": "section",
+      "title": "Deformed Bar Reinforcing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 13 16",
+      "level": "section",
+      "title": "Welded Wire Reinforcing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 13 19",
+      "level": "section",
+      "title": "Post-Installed Concrete Anchors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 13 23",
+      "level": "section",
+      "title": "Stressing Tendons",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 13 26",
+      "level": "section",
+      "title": "Unbonded Post-Tensioning",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 13 29",
+      "level": "section",
+      "title": "Bonded Post-Tensioning",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 15 00",
+      "level": "section",
+      "title": "Concrete Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 15 13",
+      "level": "section",
+      "title": "Concrete Joints and Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 15 16",
+      "level": "section",
+      "title": "Concrete Anchors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 16 00",
+      "level": "section",
+      "title": "Concrete Placing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 16 13",
+      "level": "section",
+      "title": "Shotcrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 16 16",
+      "level": "section",
+      "title": "Concrete Pumping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 21 00",
+      "level": "section",
+      "title": "Cast-in-Place Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 21 13",
+      "level": "section",
+      "title": "Concrete Mixing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 23 00",
+      "level": "section",
+      "title": "Structural Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 23 13",
+      "level": "section",
+      "title": "Structural Concrete for Buildings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 23 53",
+      "level": "section",
+      "title": "Concrete Toppings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 24 00",
+      "level": "section",
+      "title": "Lightweight Structural Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 25 00",
+      "level": "section",
+      "title": "Fiber-Reinforced Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 27 00",
+      "level": "section",
+      "title": "Roller-Compacted Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 29 00",
+      "level": "section",
+      "title": "Specialty Placed Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 29 13",
+      "level": "section",
+      "title": "Underwater Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 31 00",
+      "level": "section",
+      "title": "Precast Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 31 13",
+      "level": "section",
+      "title": "Precast Concrete Slabs",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 31 16",
+      "level": "section",
+      "title": "Precast Concrete Stairs",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 33 00",
+      "level": "section",
+      "title": "Architectural Precast Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 33 13",
+      "level": "section",
+      "title": "Precast Concrete Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 35 00",
+      "level": "section",
+      "title": "Precast Concrete Structural Components",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 35 13",
+      "level": "section",
+      "title": "Prestressed Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 35 16",
+      "level": "section",
+      "title": "Precast Concrete Hollow-Core Planks",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 45 00",
+      "level": "section",
+      "title": "Cementitious Panel Products",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "11 45 13",
+      "level": "section",
+      "title": "Glass-Fiber-Reinforced Concrete",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 00 00",
+      "level": "division",
+      "title": "Masonry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 01 00",
+      "level": "section",
+      "title": "Masonry Rehabilitation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 05 00",
+      "level": "section",
+      "title": "Common Work Results for Masonry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 05 13",
+      "level": "section",
+      "title": "Masonry Mortaring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 05 16",
+      "level": "section",
+      "title": "Masonry Grouting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 05 19",
+      "level": "section",
+      "title": "Masonry Anchorage and Reinforcing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 05 23",
+      "level": "section",
+      "title": "Masonry Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 06 00",
+      "level": "section",
+      "title": "Schedules for Masonry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 11 00",
+      "level": "section",
+      "title": "Brick Masonry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 11 13",
+      "level": "section",
+      "title": "Brick Masonry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 12 00",
+      "level": "section",
+      "title": "Concrete Unit Masonry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 12 13",
+      "level": "section",
+      "title": "Concrete Masonry Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 12 16",
+      "level": "section",
+      "title": "Concrete Masonry Veneer",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 13 00",
+      "level": "section",
+      "title": "Stone Masonry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 13 13",
+      "level": "section",
+      "title": "Cut Stone Masonry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 13 16",
+      "level": "section",
+      "title": "Rubble Stone Masonry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 14 00",
+      "level": "section",
+      "title": "Manufactured Masonry Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 14 13",
+      "level": "section",
+      "title": "Adobe Masonry Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 14 16",
+      "level": "section",
+      "title": "Calcium Silicate Masonry Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 16 00",
+      "level": "section",
+      "title": "Architectural Masonry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 16 13",
+      "level": "section",
+      "title": "Architectural Brick",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 16 16",
+      "level": "section",
+      "title": "Glazed Concrete Masonry Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 19 00",
+      "level": "section",
+      "title": "Masonry Fireplaces",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "12 19 13",
+      "level": "section",
+      "title": "Masonry Fireplaces",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 00 00",
+      "level": "division",
+      "title": "Metals",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 05 00",
+      "level": "section",
+      "title": "Common Work Results for Metals",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 05 13",
+      "level": "section",
+      "title": "Selective Metal Demolition",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 05 23",
+      "level": "section",
+      "title": "Metal Fastenings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 06 00",
+      "level": "section",
+      "title": "Schedules for Metals",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 11 00",
+      "level": "section",
+      "title": "Structural Metal Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 11 13",
+      "level": "section",
+      "title": "Structural Steel Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 11 16",
+      "level": "section",
+      "title": "Structural Steel for Buildings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 11 19",
+      "level": "section",
+      "title": "Architecturally-Exposed Structural Steel",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 11 23",
+      "level": "section",
+      "title": "Structural Aluminum Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 12 00",
+      "level": "section",
+      "title": "Structural Steel for Bridges",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 13 00",
+      "level": "section",
+      "title": "Metal Fabrications",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 13 13",
+      "level": "section",
+      "title": "Metal Stairs",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 13 16",
+      "level": "section",
+      "title": "Ladders and Rungs",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 13 19",
+      "level": "section",
+      "title": "Metal Floor Plate",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 13 23",
+      "level": "section",
+      "title": "Metal Gratings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 13 26",
+      "level": "section",
+      "title": "Metal Castings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 13 29",
+      "level": "section",
+      "title": "Bollards",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 13 33",
+      "level": "section",
+      "title": "Metal Railing and Handrails",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 15 00",
+      "level": "section",
+      "title": "Wire Rope and Cable Assemblies",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 15 13",
+      "level": "section",
+      "title": "Structural Cable Assemblies",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 16 00",
+      "level": "section",
+      "title": "Cold-Formed Metal Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 16 13",
+      "level": "section",
+      "title": "Cold-Formed Metal Floor Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 16 16",
+      "level": "section",
+      "title": "Cold-Formed Metal Roof Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 16 19",
+      "level": "section",
+      "title": "Cold-Formed Metal Wall Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 17 00",
+      "level": "section",
+      "title": "Metal Joists",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 17 13",
+      "level": "section",
+      "title": "Open-Web Steel Joists",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 17 16",
+      "level": "section",
+      "title": "Joist Girders",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 18 00",
+      "level": "section",
+      "title": "Metal Decking",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 18 13",
+      "level": "section",
+      "title": "Metal Roof Decking",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 18 16",
+      "level": "section",
+      "title": "Metal Floor Decking",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 21 00",
+      "level": "section",
+      "title": "Steel Connections",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 21 13",
+      "level": "section",
+      "title": "High-Strength Bolts",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "13 21 16",
+      "level": "section",
+      "title": "Welded Connections",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 00 00",
+      "level": "division",
+      "title": "Wood Plastics and Composites",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 05 00",
+      "level": "section",
+      "title": "Common Work Results for Wood Plastics and Composites",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 05 13",
+      "level": "section",
+      "title": "Selective Wood Demolition",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 06 00",
+      "level": "section",
+      "title": "Schedules for Wood Plastics and Composites",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 11 00",
+      "level": "section",
+      "title": "Wood Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 11 13",
+      "level": "section",
+      "title": "Dimension Lumber Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 11 16",
+      "level": "section",
+      "title": "Engineered Wood Products",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 11 19",
+      "level": "section",
+      "title": "Heavy Timber Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 11 23",
+      "level": "section",
+      "title": "Log Construction",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 11 26",
+      "level": "section",
+      "title": "Timber Framing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 11 33",
+      "level": "section",
+      "title": "Structural Insulated Panels",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 12 00",
+      "level": "section",
+      "title": "Structural Panels",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 12 13",
+      "level": "section",
+      "title": "Plywood",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 12 16",
+      "level": "section",
+      "title": "Oriented Strand Board",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 13 00",
+      "level": "section",
+      "title": "Sheathing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 13 13",
+      "level": "section",
+      "title": "Wood Structural Panel Sheathing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 13 16",
+      "level": "section",
+      "title": "Gypsum Sheathing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 14 00",
+      "level": "section",
+      "title": "Treated Wood Products",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 14 13",
+      "level": "section",
+      "title": "Pressure-Treated Wood",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 21 00",
+      "level": "section",
+      "title": "Finish Carpentry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 21 13",
+      "level": "section",
+      "title": "Exterior Finish Carpentry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 21 16",
+      "level": "section",
+      "title": "Interior Finish Carpentry",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 22 00",
+      "level": "section",
+      "title": "Millwork",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 22 13",
+      "level": "section",
+      "title": "Custom Millwork",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 23 00",
+      "level": "section",
+      "title": "Interior Architectural Woodwork",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 23 13",
+      "level": "section",
+      "title": "Interior Trim",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 23 16",
+      "level": "section",
+      "title": "Wood Stairways and Rails",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 23 19",
+      "level": "section",
+      "title": "Wood Casework",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 24 00",
+      "level": "section",
+      "title": "Exterior Architectural Woodwork",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 41 00",
+      "level": "section",
+      "title": "Wood Doors and Frames",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 41 13",
+      "level": "section",
+      "title": "Flush Wood Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 41 16",
+      "level": "section",
+      "title": "Stile and Rail Wood Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 46 00",
+      "level": "section",
+      "title": "Plastic Components",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 46 13",
+      "level": "section",
+      "title": "Fiberglass Reinforced Panels",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 46 16",
+      "level": "section",
+      "title": "Plastic Lumber",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "14 65 00",
+      "level": "section",
+      "title": "Plastic Fencing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "15 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "16 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "17 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "18 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "19 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "20 00 00",
+      "level": "division",
+      "title": "Thermal and Moisture Protection",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 01 00",
+      "level": "section",
+      "title": "Thermal and Moisture Protection Rehabilitation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 05 00",
+      "level": "section",
+      "title": "Common Work Results for Thermal and Moisture Protection",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 05 13",
+      "level": "section",
+      "title": "Thermal and Moisture Protection Testing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 06 00",
+      "level": "section",
+      "title": "Schedules for Thermal and Moisture Protection",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 11 00",
+      "level": "section",
+      "title": "Dampproofing and Waterproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 11 13",
+      "level": "section",
+      "title": "Bituminous Dampproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 11 16",
+      "level": "section",
+      "title": "Cementitious and Crystalline Dampproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 11 19",
+      "level": "section",
+      "title": "Water Repellents",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 11 23",
+      "level": "section",
+      "title": "Sheet Waterproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 11 26",
+      "level": "section",
+      "title": "Fluid-Applied Waterproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 11 29",
+      "level": "section",
+      "title": "Drainage Board and Geotextile",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 11 33",
+      "level": "section",
+      "title": "Sheet Metal Flashing and Trim",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 11 36",
+      "level": "section",
+      "title": "Through-Wall Flashing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 12 00",
+      "level": "section",
+      "title": "Below-Grade Waterproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 12 13",
+      "level": "section",
+      "title": "Below-Grade Sheet Waterproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 12 16",
+      "level": "section",
+      "title": "Below-Grade Fluid-Applied Waterproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 21 00",
+      "level": "section",
+      "title": "Thermal Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 21 13",
+      "level": "section",
+      "title": "Board Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 21 16",
+      "level": "section",
+      "title": "Blanket Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 21 19",
+      "level": "section",
+      "title": "Loose-Fill Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 21 23",
+      "level": "section",
+      "title": "Sprayed Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 21 26",
+      "level": "section",
+      "title": "Insulation and Underlayment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 22 00",
+      "level": "section",
+      "title": "Roof and Deck Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 22 13",
+      "level": "section",
+      "title": "Tapered Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 23 00",
+      "level": "section",
+      "title": "Exterior Insulation and Finish Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 23 13",
+      "level": "section",
+      "title": "EIFS \u2014 Polymer-Based",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 23 16",
+      "level": "section",
+      "title": "EIFS \u2014 Polymer-Modified",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 24 00",
+      "level": "section",
+      "title": "Exterior Continuous Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 31 00",
+      "level": "section",
+      "title": "Steep Slope Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 31 13",
+      "level": "section",
+      "title": "Asphalt Shingles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 31 16",
+      "level": "section",
+      "title": "Slate Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 31 19",
+      "level": "section",
+      "title": "Wood Shingles and Shakes",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 31 23",
+      "level": "section",
+      "title": "Metal Shingles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 31 26",
+      "level": "section",
+      "title": "Tile Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 32 00",
+      "level": "section",
+      "title": "Low-Slope Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 32 13",
+      "level": "section",
+      "title": "Built-Up Bituminous Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 32 16",
+      "level": "section",
+      "title": "Modified Bituminous Membrane Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 32 19",
+      "level": "section",
+      "title": "Thermoplastic Membrane Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 32 23",
+      "level": "section",
+      "title": "Thermoset Membrane Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 32 26",
+      "level": "section",
+      "title": "Fluid-Applied Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 32 29",
+      "level": "section",
+      "title": "Vegetative Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 32 33",
+      "level": "section",
+      "title": "Sprayed Polyurethane Foam Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 33 00",
+      "level": "section",
+      "title": "Flashing and Sheet Metal",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 33 13",
+      "level": "section",
+      "title": "Sheet Metal Roofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 33 16",
+      "level": "section",
+      "title": "Sheet Metal Flashing and Trim",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 33 19",
+      "level": "section",
+      "title": "Manufactured Roof Expansion Joints",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 41 00",
+      "level": "section",
+      "title": "Air Barriers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 41 13",
+      "level": "section",
+      "title": "Sheet Metal Air Barriers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 41 16",
+      "level": "section",
+      "title": "Air Infiltration Barriers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 41 19",
+      "level": "section",
+      "title": "Fluid-Applied Air Barriers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 42 00",
+      "level": "section",
+      "title": "Vapor Retarders",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 42 13",
+      "level": "section",
+      "title": "Sheet Vapor Retarders",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 51 00",
+      "level": "section",
+      "title": "Cladding and Siding",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 51 13",
+      "level": "section",
+      "title": "Metal Wall Panels",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 51 16",
+      "level": "section",
+      "title": "Fiber Cement Siding",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 51 19",
+      "level": "section",
+      "title": "Wood Siding",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 51 23",
+      "level": "section",
+      "title": "Vinyl Siding",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 51 26",
+      "level": "section",
+      "title": "Composite Siding",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 51 29",
+      "level": "section",
+      "title": "Cementitious Siding",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 61 00",
+      "level": "section",
+      "title": "Roofing Specialties and Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 61 13",
+      "level": "section",
+      "title": "Prefabricated Roof Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 61 16",
+      "level": "section",
+      "title": "Roof Hatches and Smoke Vents",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 61 19",
+      "level": "section",
+      "title": "Snow Guards",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "20 61 23",
+      "level": "section",
+      "title": "Roof Walkways",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 00 00",
+      "level": "division",
+      "title": "Openings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 01 00",
+      "level": "section",
+      "title": "Openings Rehabilitation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 05 00",
+      "level": "section",
+      "title": "Common Work Results for Openings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 06 00",
+      "level": "section",
+      "title": "Schedules for Openings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 11 00",
+      "level": "section",
+      "title": "Metal Doors and Frames",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 11 13",
+      "level": "section",
+      "title": "Hollow Metal Doors and Frames",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 11 16",
+      "level": "section",
+      "title": "Aluminum Frames",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 11 19",
+      "level": "section",
+      "title": "Steel Frames",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 13 00",
+      "level": "section",
+      "title": "Wood Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 13 13",
+      "level": "section",
+      "title": "Flush Wood Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 13 16",
+      "level": "section",
+      "title": "Stile and Rail Wood Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 14 00",
+      "level": "section",
+      "title": "Plastic Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 15 00",
+      "level": "section",
+      "title": "Composite Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 17 00",
+      "level": "section",
+      "title": "Integrated Door Opening Assemblies",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 18 00",
+      "level": "section",
+      "title": "Special Function Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 18 13",
+      "level": "section",
+      "title": "Sliding Aluminum-Framed Glass Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 18 16",
+      "level": "section",
+      "title": "Folding Doors and Grilles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 18 19",
+      "level": "section",
+      "title": "Sound Control Door Assemblies",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 18 23",
+      "level": "section",
+      "title": "Detention Doors and Frames",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 19 00",
+      "level": "section",
+      "title": "Special Doors and Frames",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 19 13",
+      "level": "section",
+      "title": "Coiling Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 19 16",
+      "level": "section",
+      "title": "Sectional Overhead Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 19 19",
+      "level": "section",
+      "title": "Upward-Acting Sectional Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 19 23",
+      "level": "section",
+      "title": "Coiling Grilles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 21 00",
+      "level": "section",
+      "title": "Hardware",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 21 13",
+      "level": "section",
+      "title": "Door Hardware",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 21 16",
+      "level": "section",
+      "title": "Keying",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 23 00",
+      "level": "section",
+      "title": "Glazing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 23 13",
+      "level": "section",
+      "title": "Glazing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 23 16",
+      "level": "section",
+      "title": "Heat-Treated Glass",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 23 19",
+      "level": "section",
+      "title": "Insulating Glass",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 23 23",
+      "level": "section",
+      "title": "Plastic Glazing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 23 26",
+      "level": "section",
+      "title": "Glazing Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 25 00",
+      "level": "section",
+      "title": "Storefronts and Entrances",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 25 13",
+      "level": "section",
+      "title": "Storefronts",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 25 16",
+      "level": "section",
+      "title": "All-Glass Entrances and Storefronts",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 25 19",
+      "level": "section",
+      "title": "Automatic Entrance Doors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 26 00",
+      "level": "section",
+      "title": "Curtain Wall and Glazed Assemblies",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 26 13",
+      "level": "section",
+      "title": "Aluminum-Framed Entrances and Storefronts",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 26 16",
+      "level": "section",
+      "title": "Structural Sealant Glazing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 26 19",
+      "level": "section",
+      "title": "Sloped Glazing Assemblies",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 31 00",
+      "level": "section",
+      "title": "Windows",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 31 13",
+      "level": "section",
+      "title": "Wood Windows",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 31 16",
+      "level": "section",
+      "title": "Aluminum Windows",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 31 19",
+      "level": "section",
+      "title": "Vinyl Windows",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 31 23",
+      "level": "section",
+      "title": "Composite Windows",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 31 26",
+      "level": "section",
+      "title": "Fiberglass Windows",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 32 00",
+      "level": "section",
+      "title": "Skylights",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 32 13",
+      "level": "section",
+      "title": "Plastic Unit Skylights",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 32 16",
+      "level": "section",
+      "title": "Metal-Framed Skylights",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 33 00",
+      "level": "section",
+      "title": "Roof Windows",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 41 00",
+      "level": "section",
+      "title": "Louvers and Vents",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 41 13",
+      "level": "section",
+      "title": "Louvers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 41 16",
+      "level": "section",
+      "title": "Door Louvers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 46 00",
+      "level": "section",
+      "title": "Screens and Grilles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "21 46 13",
+      "level": "section",
+      "title": "Security Screens and Window Guards",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 00 00",
+      "level": "division",
+      "title": "Finishes",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 01 00",
+      "level": "section",
+      "title": "Finishes Rehabilitation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 05 00",
+      "level": "section",
+      "title": "Common Work Results for Finishes",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 05 13",
+      "level": "section",
+      "title": "Selective Finish Demolition",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 06 00",
+      "level": "section",
+      "title": "Schedules for Finishes",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 09 00",
+      "level": "section",
+      "title": "Finish Commissioning",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 11 00",
+      "level": "section",
+      "title": "Plaster and Gypsum Board",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 11 13",
+      "level": "section",
+      "title": "Gypsum Plastering",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 11 16",
+      "level": "section",
+      "title": "Portland Cement Plastering",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 11 23",
+      "level": "section",
+      "title": "Gypsum Board",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 11 26",
+      "level": "section",
+      "title": "Gypsum Board Shaft Wall Assemblies",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 13 00",
+      "level": "section",
+      "title": "Tiling",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 13 13",
+      "level": "section",
+      "title": "Ceramic Tiling",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 13 16",
+      "level": "section",
+      "title": "Quarry Tiling",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 13 19",
+      "level": "section",
+      "title": "Mosaic Tiling",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 13 23",
+      "level": "section",
+      "title": "Paver Tiling",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 13 26",
+      "level": "section",
+      "title": "Glass Tiling",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 14 00",
+      "level": "section",
+      "title": "Terrazzo",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 14 13",
+      "level": "section",
+      "title": "Portland Cement Terrazzo",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 14 16",
+      "level": "section",
+      "title": "Precast Terrazzo",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 14 19",
+      "level": "section",
+      "title": "Resinous Matrix Terrazzo",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 21 00",
+      "level": "section",
+      "title": "Ceilings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 21 13",
+      "level": "section",
+      "title": "Acoustical Panel Ceilings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 21 16",
+      "level": "section",
+      "title": "Acoustical Tile Ceilings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 21 19",
+      "level": "section",
+      "title": "Linear Metal Ceilings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 21 23",
+      "level": "section",
+      "title": "Open-Web Suspended Ceilings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 21 26",
+      "level": "section",
+      "title": "Integrated Ceiling Assemblies",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 22 00",
+      "level": "section",
+      "title": "Specialty Ceilings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 22 13",
+      "level": "section",
+      "title": "Suspended Decorative Grids",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 31 00",
+      "level": "section",
+      "title": "Flooring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 31 13",
+      "level": "section",
+      "title": "Resilient Flooring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 31 16",
+      "level": "section",
+      "title": "Resilient Wall Base and Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 31 19",
+      "level": "section",
+      "title": "Carpet",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 31 23",
+      "level": "section",
+      "title": "Carpet Tile",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 31 26",
+      "level": "section",
+      "title": "Access Flooring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 32 00",
+      "level": "section",
+      "title": "Wood Flooring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 32 13",
+      "level": "section",
+      "title": "Strip and Plank Wood Flooring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 32 16",
+      "level": "section",
+      "title": "Laminate Flooring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 33 00",
+      "level": "section",
+      "title": "Stone Flooring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 33 13",
+      "level": "section",
+      "title": "Stone Floor Tile",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 34 00",
+      "level": "section",
+      "title": "Resinous Flooring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 34 13",
+      "level": "section",
+      "title": "Epoxy Floor Coating",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 34 16",
+      "level": "section",
+      "title": "Fluid-Applied Flooring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 41 00",
+      "level": "section",
+      "title": "Wall Finishes",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 41 13",
+      "level": "section",
+      "title": "Fabric-Wrapped Panels",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 41 16",
+      "level": "section",
+      "title": "Stone Wall Cladding",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 41 19",
+      "level": "section",
+      "title": "Wood Wall Cladding",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 61 00",
+      "level": "section",
+      "title": "Painting and Coating",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 61 13",
+      "level": "section",
+      "title": "Interior Painting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 61 16",
+      "level": "section",
+      "title": "Exterior Painting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 61 19",
+      "level": "section",
+      "title": "High-Performance Coatings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 61 23",
+      "level": "section",
+      "title": "Cementitious Coatings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 63 00",
+      "level": "section",
+      "title": "Staining and Transparent Finishing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 65 00",
+      "level": "section",
+      "title": "Intumescent Coatings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 72 00",
+      "level": "section",
+      "title": "Wall Coverings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 72 13",
+      "level": "section",
+      "title": "Vinyl Wall Coverings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "22 72 16",
+      "level": "section",
+      "title": "Fabric Wall Coverings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 00 00",
+      "level": "division",
+      "title": "Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 05 00",
+      "level": "section",
+      "title": "Common Work Results for Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 11 00",
+      "level": "section",
+      "title": "Visual Display Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 11 13",
+      "level": "section",
+      "title": "Markerboards",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 11 16",
+      "level": "section",
+      "title": "Tack Boards",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 11 19",
+      "level": "section",
+      "title": "Combined Visual Display Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 13 00",
+      "level": "section",
+      "title": "Directories and Signage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 13 13",
+      "level": "section",
+      "title": "Exterior Signage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 13 16",
+      "level": "section",
+      "title": "Interior Signage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 13 19",
+      "level": "section",
+      "title": "Dimensional Letter Signage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 14 00",
+      "level": "section",
+      "title": "Pedestrian Control Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 14 13",
+      "level": "section",
+      "title": "Entrances Control Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 14 16",
+      "level": "section",
+      "title": "Barrier Gates",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 14 19",
+      "level": "section",
+      "title": "Turnstiles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 21 00",
+      "level": "section",
+      "title": "Compartments and Cubicles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 21 13",
+      "level": "section",
+      "title": "Toilet Compartments",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 21 16",
+      "level": "section",
+      "title": "Shower and Dressing Compartments",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 21 19",
+      "level": "section",
+      "title": "Cubicle Curtains and Track",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 22 00",
+      "level": "section",
+      "title": "Partitions and Panels",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 22 13",
+      "level": "section",
+      "title": "Wire Mesh Partitions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 22 16",
+      "level": "section",
+      "title": "Folding Panel Partitions",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 22 19",
+      "level": "section",
+      "title": "Portable Partitions and Screens",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 23 00",
+      "level": "section",
+      "title": "Interior Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 23 13",
+      "level": "section",
+      "title": "Recessed Interior Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 24 00",
+      "level": "section",
+      "title": "Toilet Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 24 13",
+      "level": "section",
+      "title": "Toilet and Bath Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 24 16",
+      "level": "section",
+      "title": "Healthcare Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 25 00",
+      "level": "section",
+      "title": "Service Wall Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 31 00",
+      "level": "section",
+      "title": "Protective Covers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 31 13",
+      "level": "section",
+      "title": "Awnings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 31 16",
+      "level": "section",
+      "title": "Canopies",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 32 00",
+      "level": "section",
+      "title": "Pest Control Devices",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 33 00",
+      "level": "section",
+      "title": "Fire Protection Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 33 13",
+      "level": "section",
+      "title": "Fire Protection Cabinets",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 33 16",
+      "level": "section",
+      "title": "Fire Extinguishers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 34 00",
+      "level": "section",
+      "title": "Safety Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 34 13",
+      "level": "section",
+      "title": "Safety Mirrors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 34 16",
+      "level": "section",
+      "title": "Handrails and Railings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 41 00",
+      "level": "section",
+      "title": "Storage Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 41 13",
+      "level": "section",
+      "title": "Lockers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 41 16",
+      "level": "section",
+      "title": "Shelving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 42 00",
+      "level": "section",
+      "title": "Postal Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 42 13",
+      "level": "section",
+      "title": "Mail Receptacles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 43 00",
+      "level": "section",
+      "title": "Laundry Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 51 00",
+      "level": "section",
+      "title": "Hydraulic Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 51 13",
+      "level": "section",
+      "title": "Floor and Trench Drains",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 51 16",
+      "level": "section",
+      "title": "Grease Interceptors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 53 00",
+      "level": "section",
+      "title": "Fireplaces and Stoves",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 53 13",
+      "level": "section",
+      "title": "Factory-Built Fireplaces",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 53 16",
+      "level": "section",
+      "title": "Fireplace Specialties and Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 61 00",
+      "level": "section",
+      "title": "Recreational and Athletic Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 71 00",
+      "level": "section",
+      "title": "Healthcare Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "23 81 00",
+      "level": "section",
+      "title": "Detention Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 00 00",
+      "level": "division",
+      "title": "Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 05 00",
+      "level": "section",
+      "title": "Common Work Results for Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 11 00",
+      "level": "section",
+      "title": "Vehicle and Pedestrian Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 11 13",
+      "level": "section",
+      "title": "Loading Dock Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 11 16",
+      "level": "section",
+      "title": "Coiling Dock Levelers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 12 00",
+      "level": "section",
+      "title": "Parking Control Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 13 00",
+      "level": "section",
+      "title": "Maintenance Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 14 00",
+      "level": "section",
+      "title": "Food Service Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 14 13",
+      "level": "section",
+      "title": "Commercial Kitchen Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 15 00",
+      "level": "section",
+      "title": "Residential Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 15 13",
+      "level": "section",
+      "title": "Residential Appliances",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 21 00",
+      "level": "section",
+      "title": "Healthcare Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 22 00",
+      "level": "section",
+      "title": "Educational and Scientific Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 23 00",
+      "level": "section",
+      "title": "Entertainment Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 31 00",
+      "level": "section",
+      "title": "Bank and Vault Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 32 00",
+      "level": "section",
+      "title": "Mercantile and Service Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 33 00",
+      "level": "section",
+      "title": "Hospitality Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "24 41 00",
+      "level": "section",
+      "title": "Industrial and Process Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 00 00",
+      "level": "division",
+      "title": "Furnishings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 05 00",
+      "level": "section",
+      "title": "Common Work Results for Furnishings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 11 00",
+      "level": "section",
+      "title": "Fixed Audience Seating",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 12 00",
+      "level": "section",
+      "title": "Fixed Commercial Seating",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 13 00",
+      "level": "section",
+      "title": "Stadium and Arena Seating",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 21 00",
+      "level": "section",
+      "title": "Window Treatments",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 21 13",
+      "level": "section",
+      "title": "Window Blinds",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 21 16",
+      "level": "section",
+      "title": "Interior Shutters",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 22 00",
+      "level": "section",
+      "title": "Interior Planters and Artificial Plants",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 31 00",
+      "level": "section",
+      "title": "Casework",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 31 13",
+      "level": "section",
+      "title": "Metal Casework",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 31 16",
+      "level": "section",
+      "title": "Plastic Laminate-Clad Casework",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 31 19",
+      "level": "section",
+      "title": "Wood Casework",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 32 00",
+      "level": "section",
+      "title": "Countertops",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 32 13",
+      "level": "section",
+      "title": "Plastic Countertops",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 32 16",
+      "level": "section",
+      "title": "Stone Countertops",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 32 19",
+      "level": "section",
+      "title": "Solid Surfacing Countertops",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 41 00",
+      "level": "section",
+      "title": "Healthcare Furnishings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 51 00",
+      "level": "section",
+      "title": "Educational Furnishings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 61 00",
+      "level": "section",
+      "title": "Religious Furnishings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 71 00",
+      "level": "section",
+      "title": "Exterior Furnishings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 71 13",
+      "level": "section",
+      "title": "Site Seating and Tables",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 71 16",
+      "level": "section",
+      "title": "Bicycle Racks",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 71 19",
+      "level": "section",
+      "title": "Exterior Trash Receptacles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "25 72 00",
+      "level": "section",
+      "title": "Planters",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 00 00",
+      "level": "division",
+      "title": "Special Construction",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 11 00",
+      "level": "section",
+      "title": "Special Structural Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 11 13",
+      "level": "section",
+      "title": "Air-Supported Structures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 11 16",
+      "level": "section",
+      "title": "Tensioned Fabric Structures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 13 00",
+      "level": "section",
+      "title": "Special Purpose Rooms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 13 13",
+      "level": "section",
+      "title": "Clean Rooms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 13 16",
+      "level": "section",
+      "title": "Cold Storage Rooms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 13 19",
+      "level": "section",
+      "title": "Controlled Environment Rooms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 13 23",
+      "level": "section",
+      "title": "Saunas",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 13 26",
+      "level": "section",
+      "title": "Anechoic Rooms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 14 00",
+      "level": "section",
+      "title": "Special Purpose Buildings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 21 00",
+      "level": "section",
+      "title": "Pre-Engineered Structures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 21 13",
+      "level": "section",
+      "title": "Metal Building Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 21 16",
+      "level": "section",
+      "title": "Portable and Mobile Buildings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 31 00",
+      "level": "section",
+      "title": "Vaults",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 31 13",
+      "level": "section",
+      "title": "Prefabricated Vaults",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 32 00",
+      "level": "section",
+      "title": "Radiation Protection",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 33 00",
+      "level": "section",
+      "title": "Fireproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 33 13",
+      "level": "section",
+      "title": "Cementitious Fireproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 33 16",
+      "level": "section",
+      "title": "Intumescent Mastic Fireproofing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 41 00",
+      "level": "section",
+      "title": "Swimming Pools",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 41 13",
+      "level": "section",
+      "title": "Swimming Pool Construction",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 41 16",
+      "level": "section",
+      "title": "Swimming Pool Finish",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 41 19",
+      "level": "section",
+      "title": "Swimming Pool Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 51 00",
+      "level": "section",
+      "title": "Fountains",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 52 00",
+      "level": "section",
+      "title": "Solar and Wind Energy Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 52 13",
+      "level": "section",
+      "title": "Photovoltaic Collectors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 52 16",
+      "level": "section",
+      "title": "Solar Energy Thermal Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "26 52 19",
+      "level": "section",
+      "title": "Wind Energy Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "27 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "28 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "29 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "30 00 00",
+      "level": "division",
+      "title": "Plumbing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 05 00",
+      "level": "section",
+      "title": "Common Work Results for Plumbing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 05 13",
+      "level": "section",
+      "title": "Common Motor Requirements for Plumbing Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 05 16",
+      "level": "section",
+      "title": "Expansion Fittings and Loops for Plumbing Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 05 23",
+      "level": "section",
+      "title": "General-Duty Valves for Plumbing Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 05 29",
+      "level": "section",
+      "title": "Hangers and Supports for Plumbing Piping and Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 05 53",
+      "level": "section",
+      "title": "Identification for Plumbing Piping and Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 07 00",
+      "level": "section",
+      "title": "Plumbing Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 07 19",
+      "level": "section",
+      "title": "Plumbing Piping Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 11 00",
+      "level": "section",
+      "title": "Facility Water Distribution",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 11 13",
+      "level": "section",
+      "title": "Facility Water Distribution Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 11 16",
+      "level": "section",
+      "title": "Domestic Water Pumps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 11 19",
+      "level": "section",
+      "title": "Domestic Water Filtration Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 12 00",
+      "level": "section",
+      "title": "Facility Sanitary Sewerage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 12 13",
+      "level": "section",
+      "title": "Facility Sanitary Sewers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 12 16",
+      "level": "section",
+      "title": "Facility Sanitary Sewers Manholes",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 13 00",
+      "level": "section",
+      "title": "Facility Storm Drainage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 13 13",
+      "level": "section",
+      "title": "Facility Storm Drainage Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 14 00",
+      "level": "section",
+      "title": "Facility Natural-Gas Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 14 13",
+      "level": "section",
+      "title": "Facility Natural-Gas Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 21 00",
+      "level": "section",
+      "title": "Domestic Water Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 21 13",
+      "level": "section",
+      "title": "Facility Water Distribution Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 21 16",
+      "level": "section",
+      "title": "Water Utility Service Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 22 00",
+      "level": "section",
+      "title": "Domestic Water Piping Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 22 13",
+      "level": "section",
+      "title": "Domestic Water Pressure Reducing Valves",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 22 16",
+      "level": "section",
+      "title": "Domestic Water Piping Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 23 00",
+      "level": "section",
+      "title": "Domestic Water Pumps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 29 00",
+      "level": "section",
+      "title": "Water Treatment Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 31 00",
+      "level": "section",
+      "title": "Sanitary Sewerage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 31 13",
+      "level": "section",
+      "title": "Sanitary Sewerage Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 32 00",
+      "level": "section",
+      "title": "Sanitary Sewerage Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 33 00",
+      "level": "section",
+      "title": "Sanitary Sewerage Pumps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 41 00",
+      "level": "section",
+      "title": "Storm Drainage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 41 13",
+      "level": "section",
+      "title": "Storm Drainage Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 42 00",
+      "level": "section",
+      "title": "Storm Drainage Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 45 00",
+      "level": "section",
+      "title": "Area Drainage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 45 13",
+      "level": "section",
+      "title": "Trench and Channel Drainage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 51 00",
+      "level": "section",
+      "title": "Plumbing Fixtures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 51 13",
+      "level": "section",
+      "title": "Water Closets",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 51 16",
+      "level": "section",
+      "title": "Urinals",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 51 19",
+      "level": "section",
+      "title": "Lavatories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 51 23",
+      "level": "section",
+      "title": "Sinks",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 51 26",
+      "level": "section",
+      "title": "Bathtubs and Whirlpool Bathtubs",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 51 29",
+      "level": "section",
+      "title": "Showers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 51 33",
+      "level": "section",
+      "title": "Drinking Fountains and Water Coolers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 51 36",
+      "level": "section",
+      "title": "Emergency Fixtures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 63 00",
+      "level": "section",
+      "title": "Gas Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 63 13",
+      "level": "section",
+      "title": "Natural Gas Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "30 63 19",
+      "level": "section",
+      "title": "Compressed-Air Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 00 00",
+      "level": "division",
+      "title": "HVAC",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 05 00",
+      "level": "section",
+      "title": "Common Work Results for HVAC",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 05 13",
+      "level": "section",
+      "title": "Common Motor Requirements for HVAC Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 05 17",
+      "level": "section",
+      "title": "Sleeves and Sleeve Seals for HVAC Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 05 19",
+      "level": "section",
+      "title": "Meters and Gauges for HVAC Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 05 23",
+      "level": "section",
+      "title": "General-Duty Valves for HVAC Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 05 29",
+      "level": "section",
+      "title": "Hangers and Supports for HVAC Piping and Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 05 48",
+      "level": "section",
+      "title": "Vibration and Seismic Controls for HVAC",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 05 53",
+      "level": "section",
+      "title": "Identification for HVAC Piping and Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 07 00",
+      "level": "section",
+      "title": "HVAC Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 07 13",
+      "level": "section",
+      "title": "Duct Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 07 16",
+      "level": "section",
+      "title": "HVAC Piping Insulation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 11 00",
+      "level": "section",
+      "title": "Facility Fuel Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 11 13",
+      "level": "section",
+      "title": "Facility Fuel-Oil Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 12 00",
+      "level": "section",
+      "title": "Facility Cooling Generating Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 13 00",
+      "level": "section",
+      "title": "Facility Heating and Cooling Piping Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 21 00",
+      "level": "section",
+      "title": "Hydronic Piping and Pumps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 21 13",
+      "level": "section",
+      "title": "Hydronic Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 21 16",
+      "level": "section",
+      "title": "Hydronic Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 21 23",
+      "level": "section",
+      "title": "Hydronic Pumps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 22 00",
+      "level": "section",
+      "title": "Steam and Condensate Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 22 13",
+      "level": "section",
+      "title": "Steam and Condensate Heating Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 23 00",
+      "level": "section",
+      "title": "Refrigerant Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 24 00",
+      "level": "section",
+      "title": "HVAC Water Treatment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 31 00",
+      "level": "section",
+      "title": "HVAC Ducts and Casings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 31 13",
+      "level": "section",
+      "title": "Metal Ducts",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 31 16",
+      "level": "section",
+      "title": "Nonmetal Ducts",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 31 19",
+      "level": "section",
+      "title": "HVAC Casings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 31 23",
+      "level": "section",
+      "title": "HVAC Power Ventilators",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 32 00",
+      "level": "section",
+      "title": "Air Plenums and Chases",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 33 00",
+      "level": "section",
+      "title": "Air Duct Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 33 13",
+      "level": "section",
+      "title": "Dampers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 33 16",
+      "level": "section",
+      "title": "Duct Hardware",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 36 00",
+      "level": "section",
+      "title": "Air Terminal Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 36 13",
+      "level": "section",
+      "title": "Constant Air Volume Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 36 16",
+      "level": "section",
+      "title": "Variable Air Volume Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 37 00",
+      "level": "section",
+      "title": "Air Outlets and Inlets",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 37 13",
+      "level": "section",
+      "title": "Diffusers Registers and Grilles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 37 16",
+      "level": "section",
+      "title": "Air Distribution Specialties",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 41 00",
+      "level": "section",
+      "title": "Fans",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 41 13",
+      "level": "section",
+      "title": "Axial HVAC Fans",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 41 16",
+      "level": "section",
+      "title": "Centrifugal HVAC Fans",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 41 19",
+      "level": "section",
+      "title": "Power Ventilators",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 43 00",
+      "level": "section",
+      "title": "Air Handling Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 43 13",
+      "level": "section",
+      "title": "Packaged Air Handling Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 43 16",
+      "level": "section",
+      "title": "Custom Air Handling Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 44 00",
+      "level": "section",
+      "title": "Dedicated Outdoor Air Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 45 00",
+      "level": "section",
+      "title": "Humidifiers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 46 00",
+      "level": "section",
+      "title": "Air Purifiers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 51 00",
+      "level": "section",
+      "title": "Central Heating Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 51 13",
+      "level": "section",
+      "title": "Boilers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 51 16",
+      "level": "section",
+      "title": "Furnaces",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 51 19",
+      "level": "section",
+      "title": "Radiant Heating Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 52 00",
+      "level": "section",
+      "title": "Heat Exchangers for HVAC",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 53 00",
+      "level": "section",
+      "title": "Heating Boilers and Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 56 00",
+      "level": "section",
+      "title": "Solar Energy Heating Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 61 00",
+      "level": "section",
+      "title": "Central Cooling Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 61 13",
+      "level": "section",
+      "title": "Refrigerant Compressors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 61 16",
+      "level": "section",
+      "title": "Packaged Air-Cooled Refrigerant Compressors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 61 19",
+      "level": "section",
+      "title": "Refrigerant Condensers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 61 23",
+      "level": "section",
+      "title": "Refrigerant Evaporators",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 62 00",
+      "level": "section",
+      "title": "Packaged Compressor and Condenser Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 63 00",
+      "level": "section",
+      "title": "Refrigerant Cooling Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 64 00",
+      "level": "section",
+      "title": "Packaged Terminal HVAC Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 64 13",
+      "level": "section",
+      "title": "Packaged Terminal Air Conditioners",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 64 16",
+      "level": "section",
+      "title": "Packaged Terminal Heat Pumps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 71 00",
+      "level": "section",
+      "title": "Unitary HVAC Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 71 13",
+      "level": "section",
+      "title": "Split-System Air Conditioning Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 71 16",
+      "level": "section",
+      "title": "Heat Pumps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 73 00",
+      "level": "section",
+      "title": "Indoor Central-Station Air-Handling Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 74 00",
+      "level": "section",
+      "title": "Packaged Outdoor HVAC Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 74 13",
+      "level": "section",
+      "title": "Packaged Rooftop Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 81 00",
+      "level": "section",
+      "title": "Decentralized HVAC Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 82 00",
+      "level": "section",
+      "title": "Convection Heating and Cooling Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 83 00",
+      "level": "section",
+      "title": "Radiant Heating Units",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "31 84 00",
+      "level": "section",
+      "title": "Humidity Control Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 00 00",
+      "level": "division",
+      "title": "Fire Suppression",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 01 00",
+      "level": "section",
+      "title": "Fire Suppression Rehabilitation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 05 00",
+      "level": "section",
+      "title": "Common Work Results for Fire Suppression",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 11 00",
+      "level": "section",
+      "title": "Fire Suppression Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 11 13",
+      "level": "section",
+      "title": "Fire Protection Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 12 00",
+      "level": "section",
+      "title": "Fire Suppression Standpipes",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 13 00",
+      "level": "section",
+      "title": "Fire Pumps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 13 13",
+      "level": "section",
+      "title": "Electric-Drive Fire Pumps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 13 16",
+      "level": "section",
+      "title": "Diesel-Drive Fire Pumps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 13 19",
+      "level": "section",
+      "title": "Fire Pump Controllers and Accessories",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 14 00",
+      "level": "section",
+      "title": "Fire Suppression Water Storage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 15 00",
+      "level": "section",
+      "title": "Fire Suppression Specialty Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 21 00",
+      "level": "section",
+      "title": "Fire Suppression Sprinkler Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 21 13",
+      "level": "section",
+      "title": "Wet-Pipe Sprinkler Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 21 16",
+      "level": "section",
+      "title": "Dry-Pipe Sprinkler Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 21 19",
+      "level": "section",
+      "title": "Pre-Action Sprinkler Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 21 23",
+      "level": "section",
+      "title": "Deluge Sprinkler Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 21 26",
+      "level": "section",
+      "title": "Combined Dry-Pipe and Pre-Action Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 31 00",
+      "level": "section",
+      "title": "Fire Suppression Fixed Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 31 13",
+      "level": "section",
+      "title": "Carbon Dioxide Fire Suppression Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 31 16",
+      "level": "section",
+      "title": "Dry Chemical Fire Suppression Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 31 19",
+      "level": "section",
+      "title": "Pre-Engineered Wet Chemical Fire Suppression Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 31 23",
+      "level": "section",
+      "title": "Clean-Agent Extinction Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "32 41 00",
+      "level": "section",
+      "title": "Foam Fire Suppression Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 00 00",
+      "level": "division",
+      "title": "Electrical",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 05 00",
+      "level": "section",
+      "title": "Common Work Results for Electrical",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 05 13",
+      "level": "section",
+      "title": "Conductors and Cables",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 05 19",
+      "level": "section",
+      "title": "Low-Voltage Electrical Power Conductors and Cables",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 05 26",
+      "level": "section",
+      "title": "Grounding and Bonding for Electrical Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 05 29",
+      "level": "section",
+      "title": "Hangers and Supports for Electrical Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 05 33",
+      "level": "section",
+      "title": "Raceway and Boxes for Electrical Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 05 36",
+      "level": "section",
+      "title": "Cable Trays for Electrical Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 05 43",
+      "level": "section",
+      "title": "Underground Ducts and Raceways for Electrical Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 05 53",
+      "level": "section",
+      "title": "Identification for Electrical Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 06 00",
+      "level": "section",
+      "title": "Schedules for Electrical",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 11 00",
+      "level": "section",
+      "title": "Facility Electrical Power Generating and Storing Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 12 00",
+      "level": "section",
+      "title": "Medium-Voltage Electrical Distribution",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 12 13",
+      "level": "section",
+      "title": "Primary Electrical Switchgear",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 12 16",
+      "level": "section",
+      "title": "Primary Electrical Switchboard",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 13 00",
+      "level": "section",
+      "title": "Site Grounding",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 21 00",
+      "level": "section",
+      "title": "Low-Voltage Electrical Transmission",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 21 13",
+      "level": "section",
+      "title": "Low-Voltage Electrical Service Entrance",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 21 16",
+      "level": "section",
+      "title": "Underground Electrical Distribution",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 22 00",
+      "level": "section",
+      "title": "Low-Voltage Transformers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 22 13",
+      "level": "section",
+      "title": "Dry-Type Transformers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 23 00",
+      "level": "section",
+      "title": "Battery Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 24 00",
+      "level": "section",
+      "title": "Switches",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 26 00",
+      "level": "section",
+      "title": "Power Filtering and Conditioning Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 27 00",
+      "level": "section",
+      "title": "Power Monitoring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 29 00",
+      "level": "section",
+      "title": "Enclosed Bus Assemblies",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 31 00",
+      "level": "section",
+      "title": "Lighting Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 31 13",
+      "level": "section",
+      "title": "Interior Lighting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 31 16",
+      "level": "section",
+      "title": "Lighting Panels",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 31 19",
+      "level": "section",
+      "title": "Emergency Lighting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 31 23",
+      "level": "section",
+      "title": "Exit Signs",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 32 00",
+      "level": "section",
+      "title": "Exterior Lighting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 32 13",
+      "level": "section",
+      "title": "Roadway Lighting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 32 16",
+      "level": "section",
+      "title": "Site Lighting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 33 00",
+      "level": "section",
+      "title": "Special Purpose Lighting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 41 00",
+      "level": "section",
+      "title": "Switchboards",
+      "notes": " Panelboards",
+      "reserved": " and Motor Control",
+      "null": [
+        "",
+        ""
+      ]
+    },
+    {
+      "ess_number": "33 41 13",
+      "level": "section",
+      "title": "Switchboards",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 41 16",
+      "level": "section",
+      "title": "Panelboards",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 41 19",
+      "level": "section",
+      "title": "Enclosed Switches and Circuit Breakers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 41 23",
+      "level": "section",
+      "title": "Motor-Control Centers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 46 00",
+      "level": "section",
+      "title": "Electrical Systems Monitoring and Control",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 51 00",
+      "level": "section",
+      "title": "Generators",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 51 13",
+      "level": "section",
+      "title": "Engine Generators",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 51 23",
+      "level": "section",
+      "title": "Photovoltaic Generating Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 53 00",
+      "level": "section",
+      "title": "Uninterruptible Power Supply Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 71 00",
+      "level": "section",
+      "title": "Voice and Data Communications",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 71 13",
+      "level": "section",
+      "title": "Communications Pathways and Spaces",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 71 19",
+      "level": "section",
+      "title": "Copper Communications Cables",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 71 23",
+      "level": "section",
+      "title": "Optical Fiber Communications Cables",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 81 00",
+      "level": "section",
+      "title": "Electronic Safety and Security",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 81 13",
+      "level": "section",
+      "title": "Fire Alarm Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 81 16",
+      "level": "section",
+      "title": "Mass Notification Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 81 23",
+      "level": "section",
+      "title": "Intrusion Detection Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 81 26",
+      "level": "section",
+      "title": "Access Control Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 81 29",
+      "level": "section",
+      "title": "Video Surveillance Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "33 82 00",
+      "level": "section",
+      "title": "Electronic Monitoring and Control",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "34 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "35 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "36 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "37 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "38 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "39 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "40 00 00",
+      "level": "division",
+      "title": "Conveying Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 11 00",
+      "level": "section",
+      "title": "Elevators",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 11 13",
+      "level": "section",
+      "title": "Electric Traction Elevators",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 11 16",
+      "level": "section",
+      "title": "Hydraulic Elevators",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 11 19",
+      "level": "section",
+      "title": "Limited-Use/Limited-Application Elevators",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 12 00",
+      "level": "section",
+      "title": "Escalators and Moving Walkways",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 12 13",
+      "level": "section",
+      "title": "Escalators",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 12 16",
+      "level": "section",
+      "title": "Moving Walks",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 13 00",
+      "level": "section",
+      "title": "Moving Ramps",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 14 00",
+      "level": "section",
+      "title": "Pneumatic Tube Systems",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 21 00",
+      "level": "section",
+      "title": "Conveyors and Material Handling",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 21 13",
+      "level": "section",
+      "title": "Belt Conveyors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 21 16",
+      "level": "section",
+      "title": "Gravity Conveyors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 21 19",
+      "level": "section",
+      "title": "Pneumatic Conveyors",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 41 00",
+      "level": "section",
+      "title": "Turntables and Platforms",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 51 00",
+      "level": "section",
+      "title": "Chutes",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 51 13",
+      "level": "section",
+      "title": "Laundry and Linen Chutes",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "40 51 16",
+      "level": "section",
+      "title": "Rubbish Chutes",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 00 00",
+      "level": "division",
+      "title": "Earthwork",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 11 00",
+      "level": "section",
+      "title": "Site Clearing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 11 13",
+      "level": "section",
+      "title": "Selective Site Clearing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 11 16",
+      "level": "section",
+      "title": "Tree Protection and Trimming",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 12 00",
+      "level": "section",
+      "title": "Earth Moving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 12 13",
+      "level": "section",
+      "title": "Site Grading",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 12 16",
+      "level": "section",
+      "title": "Excavation and Fill",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 12 19",
+      "level": "section",
+      "title": "Trenching",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 13 00",
+      "level": "section",
+      "title": "Rock Removal",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 14 00",
+      "level": "section",
+      "title": "Earth Dams",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 15 00",
+      "level": "section",
+      "title": "Erosion and Sedimentation Controls",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 15 13",
+      "level": "section",
+      "title": "Temporary Erosion and Sedimentation Control",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 15 16",
+      "level": "section",
+      "title": "Permanent Erosion and Sedimentation Controls",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 16 00",
+      "level": "section",
+      "title": "Contaminated Site Material Removal",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 16 13",
+      "level": "section",
+      "title": "Contaminated Soil Removal and Disposal",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 17 00",
+      "level": "section",
+      "title": "Earthwork Methods",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 17 13",
+      "level": "section",
+      "title": "Compaction",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 17 16",
+      "level": "section",
+      "title": "Dewatering",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 17 19",
+      "level": "section",
+      "title": "Shoring",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 21 00",
+      "level": "section",
+      "title": "Base Courses",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 21 13",
+      "level": "section",
+      "title": "Aggregate Base Courses",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 21 16",
+      "level": "section",
+      "title": "Cement-Treated Base Courses",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 31 00",
+      "level": "section",
+      "title": "Soil Treatment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 31 13",
+      "level": "section",
+      "title": "Chemical Soil Stabilization",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 32 00",
+      "level": "section",
+      "title": "Geotextiles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "41 32 13",
+      "level": "section",
+      "title": "Woven Geotextiles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 00 00",
+      "level": "division",
+      "title": "Exterior Improvements",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 11 00",
+      "level": "section",
+      "title": "Flexible Paving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 11 13",
+      "level": "section",
+      "title": "Bituminous Paving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 11 16",
+      "level": "section",
+      "title": "Bituminous Surfacing",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 12 00",
+      "level": "section",
+      "title": "Rigid Paving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 12 13",
+      "level": "section",
+      "title": "Portland Cement Concrete Paving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 12 16",
+      "level": "section",
+      "title": "Concrete Walks and Curbs",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 13 00",
+      "level": "section",
+      "title": "Unit Paving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 13 13",
+      "level": "section",
+      "title": "Brick Unit Paving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 13 16",
+      "level": "section",
+      "title": "Concrete Unit Paving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 13 19",
+      "level": "section",
+      "title": "Stone Paving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 14 00",
+      "level": "section",
+      "title": "Athletic and Recreational Paving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 21 00",
+      "level": "section",
+      "title": "Curbs Gutters Sidewalks and Driveways",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 22 00",
+      "level": "section",
+      "title": "Traffic Calming",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 23 00",
+      "level": "section",
+      "title": "Parking Lots",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 31 00",
+      "level": "section",
+      "title": "Fences and Gates",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 31 13",
+      "level": "section",
+      "title": "Chain Link Fences and Gates",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 31 16",
+      "level": "section",
+      "title": "Ornamental Metal Fences and Gates",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 31 19",
+      "level": "section",
+      "title": "Wood Fences and Gates",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 32 00",
+      "level": "section",
+      "title": "Retaining Walls",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 32 13",
+      "level": "section",
+      "title": "Concrete Retaining Walls",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 32 16",
+      "level": "section",
+      "title": "Segmental Concrete Masonry Retaining Walls",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 32 19",
+      "level": "section",
+      "title": "Gabion Retaining Walls",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 41 00",
+      "level": "section",
+      "title": "Irrigation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 41 13",
+      "level": "section",
+      "title": "Irrigation Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 41 16",
+      "level": "section",
+      "title": "Sprinkler Irrigation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 41 19",
+      "level": "section",
+      "title": "Drip and Bubbler Irrigation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 51 00",
+      "level": "section",
+      "title": "Planting",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 51 13",
+      "level": "section",
+      "title": "Landscape Edgings",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 51 16",
+      "level": "section",
+      "title": "Soil Preparation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 51 19",
+      "level": "section",
+      "title": "Turf and Grasses",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 51 23",
+      "level": "section",
+      "title": "Plants and Bulbs",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 51 26",
+      "level": "section",
+      "title": "Trees and Shrubs",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 61 00",
+      "level": "section",
+      "title": "Site Development",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 61 13",
+      "level": "section",
+      "title": "Tactile Warning Surfaces",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 61 16",
+      "level": "section",
+      "title": "Flagpoles",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 61 19",
+      "level": "section",
+      "title": "Exterior Clocks",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 71 00",
+      "level": "section",
+      "title": "Wetlands",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 72 00",
+      "level": "section",
+      "title": "Stormwater Management",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 72 13",
+      "level": "section",
+      "title": "Bioretention",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "42 72 16",
+      "level": "section",
+      "title": "Green Roofs for Stormwater Management",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 00 00",
+      "level": "division",
+      "title": "Utilities",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 11 00",
+      "level": "section",
+      "title": "Water Utility Distribution",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 11 13",
+      "level": "section",
+      "title": "Water Utility Distribution Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 11 16",
+      "level": "section",
+      "title": "Water Utility Distribution Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 12 00",
+      "level": "section",
+      "title": "Sanitary Utility Sewerage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 12 13",
+      "level": "section",
+      "title": "Sanitary Utility Sewerage Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 12 16",
+      "level": "section",
+      "title": "Sanitary Utility Sewerage Force Mains",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 13 00",
+      "level": "section",
+      "title": "Storm Utility Drainage",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 13 13",
+      "level": "section",
+      "title": "Storm Utility Drainage Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 14 00",
+      "level": "section",
+      "title": "Natural Gas Utility Distribution",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 14 13",
+      "level": "section",
+      "title": "Natural Gas Utility Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 21 00",
+      "level": "section",
+      "title": "Electrical Utility Transmission",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 21 13",
+      "level": "section",
+      "title": "Electrical Utility Poles and Structures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 22 00",
+      "level": "section",
+      "title": "Communications Utility Distribution",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 22 13",
+      "level": "section",
+      "title": "Communications Utility Conduit",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 31 00",
+      "level": "section",
+      "title": "Site Manholes and Structures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 31 13",
+      "level": "section",
+      "title": "Precast Concrete Utility Structures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "43 31 16",
+      "level": "section",
+      "title": "Cast-in-Place Concrete Utility Structures",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 00 00",
+      "level": "division",
+      "title": "Transportation",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 11 00",
+      "level": "section",
+      "title": "Roadways",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 11 13",
+      "level": "section",
+      "title": "Flexible Roadway Surfaces",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 11 16",
+      "level": "section",
+      "title": "Rigid Roadway Surfaces",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 12 00",
+      "level": "section",
+      "title": "Bridges",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 12 13",
+      "level": "section",
+      "title": "Cast-in-Place Concrete Bridges",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 12 16",
+      "level": "section",
+      "title": "Precast Concrete Bridges",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 13 00",
+      "level": "section",
+      "title": "Tunnels",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 21 00",
+      "level": "section",
+      "title": "Airfield Paving",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 31 00",
+      "level": "section",
+      "title": "Rail Trackwork",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 31 13",
+      "level": "section",
+      "title": "Ballasted Track",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 41 00",
+      "level": "section",
+      "title": "Traffic Management",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 41 13",
+      "level": "section",
+      "title": "Traffic Control Devices",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "44 41 16",
+      "level": "section",
+      "title": "Pavement Marking",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "45 00 00",
+      "level": "division",
+      "title": "Process Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "45 11 00",
+      "level": "section",
+      "title": "Process Gas Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "45 12 00",
+      "level": "section",
+      "title": "Process Air Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "45 13 00",
+      "level": "section",
+      "title": "Process Liquid Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "45 14 00",
+      "level": "section",
+      "title": "Process Steam Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "45 21 00",
+      "level": "section",
+      "title": "Specialty Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "45 21 13",
+      "level": "section",
+      "title": "High-Purity Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "45 21 16",
+      "level": "section",
+      "title": "Chemical-Resistant Piping",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "45 31 00",
+      "level": "section",
+      "title": "Process Valves",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "45 41 00",
+      "level": "section",
+      "title": "Process Instrumentation and Control",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "46 00 00",
+      "level": "division",
+      "title": "Process Heating Cooling and Drying Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "46 11 00",
+      "level": "section",
+      "title": "Process Heating Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "46 12 00",
+      "level": "section",
+      "title": "Process Cooling Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "46 13 00",
+      "level": "section",
+      "title": "Process Drying Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "46 21 00",
+      "level": "section",
+      "title": "Process Boilers",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "46 31 00",
+      "level": "section",
+      "title": "Refrigerant Cooling Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "47 00 00",
+      "level": "division",
+      "title": "Process Gas and Liquid Handling",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "47 11 00",
+      "level": "section",
+      "title": "Process Air and Gas Handling and Purification Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "47 12 00",
+      "level": "section",
+      "title": "Process Liquid Handling and Purification Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "47 13 00",
+      "level": "section",
+      "title": "Process Sewage and Sludge Handling and Treatment Equipment",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "47 21 00",
+      "level": "section",
+      "title": "Storage Vessels",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "47 31 00",
+      "level": "section",
+      "title": "Bulk Material Handling",
+      "notes": "",
+      "reserved": ""
+    },
+    {
+      "ess_number": "48 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    },
+    {
+      "ess_number": "49 00 00",
+      "level": "division",
+      "title": "Reserved for Future Expansion",
+      "notes": "Reserved",
+      "reserved": "reserved"
+    }
+  ]
+}

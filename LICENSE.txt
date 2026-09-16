@@ -1,0 +1,260 @@
+Open Database License (ODbL) v1.0
+==================================
+
+The Open Database License (ODbL) is a license agreement intended to
+allow users to freely share, modify, and use a database while maintaining
+this same freedom for others. Many databases are covered by copyright,
+and therefore this document licenses these rights. Some jurisdictions,
+mainly in the European Union, have specific rights that cover databases,
+and so the ODbL addresses these rights, too. Finally, the ODbL is also
+an agreement in contract for users in jurisdictions that may not have
+copyright or database rights in databases.
+
+Databases can contain a wide variety of types of content (images, audiovisual
+material, and sounds all in the same database, for example), and so the ODbL
+only governs the rights over the database, and not the contents of the
+database individually. Licensors should use the ODbL together with another
+license for the contents, if the contents have a single set of rights that
+uniformly covers all of the contents. If the contents have multiple sets of
+different rights, Licensors should describe what rights govern what contents
+together in the individual record or in some other way that clarifies what
+rights apply.
+
+Sometimes the contents of a database, or the database itself, can be
+licensed under other terms, and so you are advised that you may use the
+Open Database License for an original database, and license the contents
+under separate terms, such as a Creative Commons license for sets of data
+that meet the requirements of copyright.
+
+Part I: Introduction
+--------------------
+
+The Licensor (as defined below) grants to You a worldwide, royalty-free,
+non-exclusive, terminable (but only under Section 9) license to use the
+Database for the duration of any applicable copyright and Database Rights.
+Your exercise of any of the rights here is subject to the terms of this
+License.
+
+Part II: Definitions
+--------------------
+
+"Collective Database" — Means this Database in unmodified form as part of a
+collection of independent databases in themselves that together are assembled
+into a collective whole. A work that constitutes a Collective Database will
+not be considered a Derivative Database.
+
+"Convey" — As a verb, means Using the Database, a Derivative Database, or
+the Database as part of a Produced Work in any way that enables a Person to
+make or receive copies of the Database or a Derivative Database. Conveying
+does not include interaction with a user through a computer network, or
+creating and Using a Produced Work, where no transfer of a copy of the
+Database or a Derivative Database occurs.
+
+"Contents" — The contents of this Database, which includes the information,
+independent works, or other material collected into the Database. For
+example, the contents of the Database could be factual data or works such
+as images, audiovisual material, text, or sounds.
+
+"Database" — A collection of material (the Contents) arranged in a
+systematic or methodical way and individually accessible by electronic or
+other means offered under the terms of this License.
+
+"Database Directive" — Means Directive 96/9/EC of the European Parliament
+and of the Council of 11 March 1996 on the legal protection of databases,
+as amended or succeeded.
+
+"Database Right" — Means rights resulting from the Chapter III ("sui generis"
+right) of the Database Directive (as amended and as transposed by member
+states), which includes the Extraction and Re-utilisation of the whole or a
+Substantial part of the Contents, as well as any similar rights available in
+the relevant jurisdiction under Section 10.4.
+
+"Derivative Database" — Means a database based upon the Database, and includes
+any translation, adaptation, arrangement, modification, or any other
+alteration of the Database or of a Substantial part of the Contents. This
+includes, but is not limited to, Extracting or Re-utilising the whole or a
+Substantial part of the Contents in a new Database.
+
+"Extraction" — Means the permanent or temporary transfer of all or a
+Substantial part of the Contents to another medium by any means or in any form.
+
+"License" — Means this license agreement and is both an agreement in contract
+and an exercise of the right of the Licensor to license the relevant rights in
+the Database, and meaning the terms and conditions for use, copying, and
+distribution as established herein.
+
+"Licensor" — Means the Person that offers the Database under the terms of
+this License.
+
+"Person" — Means a natural or legal person or a body of persons corporate or
+incorporate.
+
+"Produced Work" — a work (such as an image, audiovisual material, text, or
+sounds) resulting from using the whole or a Substantial part of the Contents
+(via a search or other query) from this Database, a Derivative Database, or
+this Database as part of a Collective Database.
+
+"Publicly" — means to Persons other than You or under Your control by either
+more than fifty percent of the shares or votes, or the power to direct their
+activities (such as contracting with them to perform tasks for Your benefit).
+
+"Re-utilisation" — means any form of making available to the public all or a
+Substantial part of the Contents by the distribution of copies, by renting,
+by online or other forms of transmission.
+
+"Substantial" — Means substantial in terms of quantity or quality. Furthermore,
+any use of a Substantial part of the Contents from this Database must be in
+compliance with the terms and conditions of this License.
+
+"Use" — As a verb, means doing any act that is restricted by copyright or
+Database Rights whether in the original medium or any other; and includes
+without limitation distributing, copying, publicly performing, publicly
+displaying, and preparing derivative works of the Database, as well as
+modifying the Database as may be technically necessary to use it in a
+different mode or format.
+
+"You" — Means a Person exercising rights under this License who has not
+previously violated the terms of this License with respect to the Database,
+or who has received express permission from the Licensor to exercise rights
+under this License despite a previous violation.
+
+Words in the singular include the plural and vice versa.
+
+Part III: Rights Granted and Conditions of Use
+-----------------------------------------------
+
+3.1 Subject to the terms and conditions of this License, the Licensor grants
+to You a worldwide, royalty-free, non-exclusive, terminable (but only under
+Section 9) license to Use the Database for the duration of any applicable
+copyright and Database Rights. These rights explicitly include commercial use,
+and do not exclude any field of endeavour. To the extent possible in the
+relevant jurisdiction, these rights may be exercised in all media and formats
+whether now known or created in the future.
+
+The rights granted cover, for example:
+a. Extraction and Re-utilisation of the whole or a Substantial part of the Contents;
+b. Creation of Derivative Databases;
+c. Creation of Collective Databases;
+d. Creation of temporary or permanent reproductions by any means and in any form, in whole or in part, including of any Derivative Databases or as a part of Collective Databases; and
+e. Distribution, communication, display, lending, making available, or performance to the public by any means and in any form, in whole or in part, including of any Derivative Database or as a part of Collective Databases.
+
+3.2 Conditions of Use. You may exercise the rights granted in Section 3.1
+subject to the following conditions:
+
+a. Attribution: You must include a notice associated with the Database in the following form:
+   "This [DATA/DATABASE] is made available under the Open Database License:
+   http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual
+   contents of the database are licensed under the Database Contents License:
+   http://opendatacommons.org/licenses/dbcl/1.0/"
+
+   Additionally, you must credit the Elemental Specification System (ESS) and
+   its founding steward, Letbetter Ink, when publicly using or distributing
+   the database or any derivative thereof.
+
+b. Share-Alike: If You publicly Use a Derivative Database, You must also offer
+   that Derivative Database under the ODbL or a compatible license, and You
+   must include a notice that the Derivative Database is derived from this
+   Database. Any rights in the individual contents of the Derivative Database
+   are separate from the Derivative Database rights, and must be licensed
+   separately.
+
+c. Keeping open: If You Redistribute the Database, or a Derivative Database,
+   then You may use technological measures that restrict the work (such as DRM)
+   as long as You also redistribute a version without such measures.
+
+Part IV: Conditions for Sharing
+--------------------------------
+
+4.1 Any Use of a Substantial part of the Contents in another Database: You
+must distribute that other Database under the ODbL.
+
+4.2 Collective Databases: You need not apply this License to the other
+databases in a Collective Database, but this License must apply to this
+Database and the Contents of this Database.
+
+Part V: Moral Rights
+--------------------
+
+5.1 Moral rights (such as integrity) may apply to some Contents of this
+Database. To the extent we are able to (including the right to waive these
+rights), in jurisdictions and circumstances where moral rights apply to
+the Contents, the Licensor waives and/or does not assert any moral rights
+over the Contents.
+
+Part VI: Fair Dealing, Other Rights
+------------------------------------
+
+6.1 This License does not affect any rights that You or anyone else may
+independently have under applicable law, including without limitation:
+
+a. Exceptions and limitations to copyright and other intellectual property
+   or database rights;
+b. Fair use, fair dealing, or any other legally recognised free uses;
+c. Rights under patent law.
+
+Part VII: Warranties and Disclaimer
+-------------------------------------
+
+7.1 The Database is licensed by the Licensor "as is" and without any warranty
+of any kind, either express, implied, or arising by statute, custom, course of
+dealing, or trade usage. The Licensor specifically disclaims any and all
+implied warranties or conditions of title, non-infringement, accuracy or
+completeness, the presence or absence of errors, fitness for a particular
+purpose, merchantability, or otherwise. Some jurisdictions do not allow the
+exclusion of implied warranties, so this exclusion may not apply to You.
+
+Part VIII: Limitation of Liability
+------------------------------------
+
+8.1 Subject to any liability that may not be excluded or limited by law, the
+Licensor is not liable for, and expressly excludes, all liability for loss or
+damage however and whenever caused to anyone by any use under this License,
+whether by You or by anyone else, and whether caused by any fault on the part
+of the Licensor or not. This exclusion of liability includes, but is not
+limited to, any special, incidental, exemplary, punitive, or consequential
+damages such as loss of revenue, data, anticipated profits, and lost business.
+
+Part IX: Termination of Your Rights under this License
+---------------------------------------------------------
+
+9.1 Any breach by You of the terms and conditions of this License automatically
+terminates this License with immediate effect and without notice to You.
+
+9.2 For the avoidance of doubt, Licensor reserves the right to release the
+Database under different license terms or to stop distributing or providing
+access to the Database at any time; provided that any such election will not
+serve to withdraw this License (or any other license that has been, or is
+required to be, granted under the terms of this License), and this License will
+continue in full force and effect unless terminated as stated above.
+
+Part X: General
+----------------
+
+10.1 If any provision of this License is held to be invalid or unenforceable,
+that must not affect the validity or enforceability of the remainder of the
+terms and conditions of this License and each remaining provision of this
+License shall be valid and enforced to the fullest extent permitted by law.
+
+10.2 This License is the entire agreement between the parties with respect to
+the rights granted here over the Database. It replaces any earlier understandings,
+agreements or representations with respect to the Database.
+
+10.3 If You are in breach of the terms of this License, You will not be
+entitled to rely on the terms of this License or to complain of any breach
+by the Licensor.
+
+10.4 Nothing in this License shall affect the freedom to use, modify, copy or
+distribute the Contents independently of this Database under whatever terms
+apply to the Contents.
+
+10.5 This License does not grant You any right in any trademark or trade name
+of the Licensor or any affiliate, and You must not use any such mark or name.
+
+10.6 For the avoidance of doubt, the Licensor may also under separate agreement
+offer the Database to other parties under different terms from those granted
+under this License. Those terms will not affect this License.
+
+---
+
+For the full and authoritative text of the ODbL, see:
+https://opendatacommons.org/licenses/odbl/1-0/

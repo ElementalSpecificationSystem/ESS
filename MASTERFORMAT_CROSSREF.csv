@@ -1,0 +1,139 @@
+ess_number,ess_title,mf_number,mf_title,crossref_notes
+00 00 00,Procurement and Contracting Requirements,Division 00,Procurement and Contracting Requirements,Direct equivalent
+01 00 00,General Requirements,Division 01,General Requirements,Direct equivalent
+01 10 00,Summary,01 10 00,Summary,Direct equivalent
+01 20 00,Price and Payment Procedures,01 20 00,Price and Payment Procedures,Direct equivalent
+01 25 00,Substitution Procedures,01 25 00,Substitution Procedures,Direct equivalent
+01 30 00,Administrative Requirements,01 30 00,Administrative Requirements,Direct equivalent
+01 33 00,Submittal Procedures,01 33 00,Submittal Procedures,Direct equivalent
+01 40 00,Quality Requirements,01 40 00,Quality Requirements,Direct equivalent
+01 45 23,Testing and Inspecting Services,01 45 23,Testing and Inspecting Services,Direct equivalent
+01 50 00,Temporary Facilities and Controls,01 50 00,Temporary Facilities and Controls,Direct equivalent
+01 60 00,Product Requirements,01 60 00,Product Requirements,Direct equivalent
+01 70 00,Execution and Closeout Requirements,01 70 00,Execution and Closeout Requirements,Direct equivalent
+01 74 19,Construction Waste Management and Disposal,01 74 19,Construction Waste Management and Disposal,Direct equivalent
+01 78 23,Operation and Maintenance Data,01 78 23,Operation and Maintenance Data,Direct equivalent
+01 91 00,Commissioning,01 91 00,General Commissioning Requirements,Direct equivalent
+10 00 00,Existing Conditions,02 00 00,Existing Conditions,ESS renumbers from 02 to 10 to create logical space
+10 22 13,Asbestos Abatement,02 82 13,Asbestos Abatement,ESS group change only; scope identical
+10 21 13,Selective Demolition,02 41 19,Selective Demolition,ESS group change only
+11 00 00,Concrete,03 00 00,Concrete,ESS renumbers from 03 to 11
+11 11 13,Structural Cast-in-Place Concrete Forming,03 11 13,Structural Cast-in-Place Concrete Forming,ESS group change only
+11 13 13,Deformed Bar Reinforcing,03 21 13,Deformed Bar Reinforcing,ESS group change only
+11 21 00,Cast-in-Place Concrete,03 30 00,Cast-in-Place Concrete,ESS group change only
+11 31 00,Precast Concrete,03 40 00,Precast Concrete,ESS group change only
+11 35 13,Prestressed Concrete,03 49 00,Specialty Placed Concrete,Partial overlap; check scope
+12 00 00,Masonry,04 00 00,Masonry,ESS renumbers from 04 to 12
+12 11 13,Brick Masonry,04 21 13,Brick Masonry,ESS group change only
+12 12 13,Concrete Masonry Units,04 22 00,Concrete Unit Masonry,ESS group change only
+12 13 13,Cut Stone Masonry,04 43 13,Cut Stone Masonry,ESS group change only
+13 00 00,Metals,05 00 00,Metals,ESS renumbers from 05 to 13
+13 11 13,Structural Steel Framing,05 12 13,Structural Steel Framing,ESS group change only
+13 13 00,Metal Fabrications,05 50 00,Metal Fabrications,ESS group change only
+13 13 13,Metal Stairs,05 51 00,Metal Stairs,ESS group change only
+13 13 33,Metal Railing and Handrails,05 52 13,Pipe and Tube Railings,ESS merges railing types; verify scope
+13 16 00,Cold-Formed Metal Framing,05 40 00,Cold-Formed Metal Framing,ESS group change only
+13 17 13,Open-Web Steel Joists,05 21 13,Open-Web Steel Joists,ESS group change only
+13 18 13,Metal Roof Decking,05 31 13,Steel Decking,ESS separates roof and floor decking
+13 18 16,Metal Floor Decking,05 31 13,Steel Decking,ESS separates roof and floor decking
+14 00 00,Wood Plastics and Composites,06 00 00,Wood Plastics and Composites,ESS renumbers from 06 to 14
+14 11 13,Dimension Lumber Framing,06 11 13,Dimension Lumber Framing,ESS group change only
+14 11 19,Heavy Timber Framing,06 13 13,Heavy Timber Framing,ESS group change only
+14 21 16,Interior Finish Carpentry,06 22 16,Interior Finish Carpentry,ESS group change only
+14 22 13,Custom Millwork,06 40 23,Interior Architectural Woodwork,Scope overlap; verify
+14 23 19,Wood Casework,06 41 16,Plastic Laminate-Clad Casework,ESS titles more neutral; verify material scope
+20 00 00,Thermal and Moisture Protection,07 00 00,Thermal and Moisture Protection,ESS renumbers from 07 to 20
+20 11 26,Fluid-Applied Waterproofing,07 14 16,Cold Fluid-Applied Waterproofing,ESS removes temperature qualifier; verify scope
+20 21 13,Board Insulation,07 21 13,Board Insulation,ESS group change only
+20 23 13,EIFS — Polymer-Based,07 24 13,Polymer-Based Exterior Insulation and Finish Systems,ESS abbreviates title
+20 31 13,Asphalt Shingles,07 31 13,Asphalt Shingles,ESS group change only
+20 32 13,Built-Up Bituminous Roofing,07 51 13,Built-Up Bituminous Roofing,ESS group change only
+20 32 16,Modified Bituminous Membrane Roofing,07 52 16,Modified Bituminous Sheet Waterproofing,Scope difference; MF places in waterproofing; ESS in roofing
+20 32 19,Thermoplastic Membrane Roofing,07 54 19,Thermoplastic Polyolefin (TPO) Roofing,ESS uses generic title; MF uses material-specific
+20 32 23,Thermoset Membrane Roofing,07 53 23,Ethylene-Propylene-Diene-Monomer Roofing,ESS uses generic title; MF uses material-specific
+20 33 16,Sheet Metal Flashing and Trim,07 62 00,Sheet Metal Flashing and Trim,ESS group change only
+20 41 16,Air Infiltration Barriers,07 27 00,Air Barriers,ESS group change; terminology difference
+21 00 00,Openings,08 00 00,Openings,ESS renumbers from 08 to 21
+21 11 13,Hollow Metal Doors and Frames,08 11 13,Hollow Metal Doors and Frames,ESS group change only
+21 13 13,Flush Wood Doors,08 14 16,Flush Wood Doors,ESS group change only
+21 19 13,Coiling Doors,08 33 13,Coiling Counter Doors,Scope difference; verify industrial vs. commercial application
+21 19 16,Sectional Overhead Doors,08 36 13,Sectional Doors,ESS uses more specific title
+21 21 13,Door Hardware,08 71 00,Door Hardware,ESS group change only
+21 23 00,Glazing,08 80 00,Glazing,ESS group change only
+21 25 13,Storefronts,08 41 13,Aluminum-Framed Storefronts,ESS uses generic material-neutral title
+21 26 13,Aluminum-Framed Entrances and Storefronts,08 41 00,Entrances and Storefronts,ESS adds material qualifier to align with industry practice
+21 31 13,Wood Windows,08 51 13,Wood Windows,ESS group change only
+21 31 16,Aluminum Windows,08 51 23,Steel Windows,Scope difference; ESS separates aluminum and steel windows
+21 31 19,Vinyl Windows,08 53 13,Vinyl Windows,ESS group change only
+22 00 00,Finishes,09 00 00,Finishes,ESS renumbers from 09 to 22
+22 11 23,Gypsum Board,09 29 00,Gypsum Board,ESS group change only
+22 13 13,Ceramic Tiling,09 30 13,Ceramic Tiling,ESS group change only
+22 21 13,Acoustical Panel Ceilings,09 51 13,Acoustical Panel Ceilings,ESS group change only
+22 31 13,Resilient Flooring,09 65 13,Resilient Base and Accessories,Scope difference; ESS flooring vs. MF base and accessories
+22 31 19,Carpet,09 68 13,Tile Carpeting,ESS uses generic title covering both broadloom and tile
+22 61 13,Interior Painting,09 91 13,Interior Painting,ESS group change only
+22 61 16,Exterior Painting,09 91 23,Exterior Painting,ESS group change only
+23 00 00,Specialties,10 00 00,Specialties,ESS renumbers from 10 to 23
+23 21 13,Toilet Compartments,10 21 13,Toilet Compartments,ESS group change only
+23 24 13,Toilet and Bath Accessories,10 28 13,Toilet Accessories,ESS group change only
+23 33 13,Fire Protection Cabinets,10 44 13,Fire Protection Specialties,Scope difference; ESS focuses on cabinets
+23 41 13,Lockers,10 51 13,Metal Lockers,ESS uses material-neutral title
+24 00 00,Equipment,11 00 00,Equipment,ESS renumbers from 11 to 24
+24 14 13,Commercial Kitchen Equipment,11 40 00,Food Service Equipment,ESS group change only
+24 15 13,Residential Appliances,11 31 00,Residential Appliances,ESS group change only
+25 00 00,Furnishings,12 00 00,Furnishings,ESS renumbers from 12 to 25
+25 21 13,Window Blinds,12 21 13,Window Blinds,ESS group change only
+25 31 19,Wood Casework,12 35 30,Residential Casework,Scope difference; verify application
+25 32 16,Stone Countertops,12 36 40,Stone Countertops,ESS group change only
+26 00 00,Special Construction,13 00 00,Special Construction,ESS renumbers from 13 to 26
+26 13 13,Clean Rooms,13 17 13,Tray Ceiling Systems,Scope mismatch; no direct MF equivalent for ESS clean rooms; see MF 13 17
+26 21 13,Metal Building Systems,13 34 19,Metal Building Systems,ESS group change only
+26 33 13,Cementitious Fireproofing,07 81 13,Applied Fireproofing,Significant scope difference; MF places in Thermal Protection; ESS places in Special Construction
+26 52 13,Photovoltaic Collectors,13 37 13,Solar Energy Equipment,Partial overlap; MF section covers broader solar scope
+30 00 00,Plumbing,22 00 00,Plumbing,ESS renumbers from 22 to 30
+30 21 13,Facility Water Distribution Piping,22 11 13,Facility Water Distribution Piping,ESS group change only
+30 51 13,Water Closets,22 42 13,Commercial Water Closets,ESS uses generic title; MF separates commercial
+30 51 33,Drinking Fountains and Water Coolers,22 47 00,Drinking Fountains and Water Coolers,ESS group change only
+31 00 00,HVAC,23 00 00,Heating Ventilating and Air Conditioning,ESS renumbers from 23 to 31
+31 21 13,Hydronic Piping,23 21 13,Hydronic Piping,ESS group change only
+31 31 13,Metal Ducts,23 31 13,Metal Ducts,ESS group change only
+31 43 13,Packaged Air Handling Units,23 73 13,Modular Indoor Central-Station Air-Handling Units,Scope difference; verify unit configuration
+31 51 13,Boilers,23 52 13,Fire-Tube Boilers,ESS uses generic title; MF separates boiler types
+31 74 13,Packaged Rooftop Units,23 74 13,Packaged Outdoor Central-Station Air-Handling Units,ESS uses common industry term
+32 00 00,Fire Suppression,21 00 00,Fire Suppression,ESS renumbers from 21 to 32
+32 21 13,Wet-Pipe Sprinkler Systems,21 13 13,Wet-Pipe Sprinkler Systems,ESS group change only
+32 21 16,Dry-Pipe Sprinkler Systems,21 13 16,Dry-Pipe Sprinkler Systems,ESS group change only
+32 31 23,Clean-Agent Extinction Systems,21 22 23,Clean-Agent Extinction Systems,ESS group change only
+33 00 00,Electrical,26 00 00,Electrical,ESS renumbers from 26 to 33
+33 05 26,Grounding and Bonding for Electrical Systems,26 05 26,Grounding and Bonding for Electrical Systems,ESS group change only
+33 05 33,Raceway and Boxes for Electrical Systems,26 05 33,Raceways and Boxes for Electrical Systems,Minor title difference
+33 31 13,Interior Lighting,26 51 00,Interior Lighting,ESS group change only
+33 41 13,Switchboards,26 24 13,Switchboards,ESS group change only
+33 41 16,Panelboards,26 24 16,Panelboards,ESS group change only
+33 51 13,Engine Generators,26 32 13,Engine Generators,ESS group change only
+33 71 13,Communications Pathways and Spaces,27 05 28,Pathways for Communications Systems,Scope difference; ESS includes spaces
+33 81 13,Fire Alarm Systems,28 31 13,Fire Alarm Systems,Significant division shift; MF places in Electronic Safety; ESS places in Electrical
+33 81 26,Access Control Systems,28 13 16,Security Access Detection,Scope difference; ESS title broader
+33 81 29,Video Surveillance Systems,28 23 13,Video Surveillance Systems,ESS group change only
+40 00 00,Conveying Equipment,14 00 00,Conveying Equipment,ESS renumbers from 14 to 40
+40 11 13,Electric Traction Elevators,14 21 13,Electric Traction Elevators,ESS group change only
+40 11 16,Hydraulic Elevators,14 24 13,Hydraulic Elevators,ESS group change only
+40 12 13,Escalators,14 31 13,Escalators,ESS group change only
+41 00 00,Earthwork,31 00 00,Earthwork,ESS renumbers from 31 to 41
+41 11 13,Selective Site Clearing,31 11 13,Clearing and Grubbing,Title difference; ESS more specific
+41 12 13,Site Grading,31 22 13,Rough Grading,Title difference; ESS broader
+41 15 13,Temporary Erosion and Sedimentation Control,31 25 13,Erosion Control,ESS adds sedimentation; verify scope
+42 00 00,Exterior Improvements,32 00 00,Exterior Improvements,ESS renumbers from 32 to 42
+42 11 13,Bituminous Paving,32 12 16,Bituminous Paving,ESS group change only
+42 12 13,Portland Cement Concrete Paving,32 13 13,Portland Cement Concrete Paving,ESS group change only
+42 31 13,Chain Link Fences and Gates,32 31 13,Chain-Link Fences and Gates,Minor title difference (hyphen)
+42 51 26,Trees and Shrubs,32 93 13,Trees,ESS combines trees and shrubs in one section
+43 00 00,Utilities,33 00 00,Utilities,ESS renumbers from 33 to 43
+43 11 13,Water Utility Distribution Piping,33 11 13,Water Utility Distribution Piping,ESS group change only
+43 12 13,Sanitary Utility Sewerage Piping,33 31 13,Sanitary Utility Sewerage Piping,ESS group change only
+43 13 13,Storm Utility Drainage Piping,33 41 13,Storm Utility Gravity Piping,Title difference; ESS more generic
+44 00 00,Transportation,34 00 00,Transportation,ESS renumbers from 34 to 44
+44 11 13,Flexible Roadway Surfaces,34 71 13,Traffic Signals,Scope mismatch; MF 34 is narrowly rail/signal; ESS 44 broadens to all transportation infrastructure
+45 00 00,Process Piping,40 00 00,Process Integration,ESS scope limited to piping; MF 40 is broader process integration
+46 00 00,Process Heating Cooling and Drying Equipment,40 00 00,Process Integration,Partial overlap; verify scope against MF 46 subsections
+47 00 00,Process Gas and Liquid Handling,40 00 00,Process Integration,Partial overlap; verify scope against MF 47 subsections
